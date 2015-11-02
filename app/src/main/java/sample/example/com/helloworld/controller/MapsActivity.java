@@ -34,6 +34,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 //change 1 hai this is from github site 
 
+        //change 2 from code ..
 
         mMap = mapFragment.getMap();
         mMap.setMyLocationEnabled(true);
